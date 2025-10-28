@@ -39,8 +39,7 @@ I love turning ideas into interactive experiences using modern technologies and 
 🌍 [**Portfolio**](https://fernandesportfolio.vercel.app/)
 
 ---
-
-> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs  
+ 
 
 ⭐ Feel free to explore my repositories and connect with me!
 
