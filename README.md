@@ -24,7 +24,7 @@ I love turning ideas into interactive experiences using modern technologies and 
 
 ---
 
-### 📚 Currently Learning
+### 📚 Always Learning
 - Advanced React and TypeScript  
 - Front-End Performance Optimization  
 - Clean Code & Scalable Architecture  
