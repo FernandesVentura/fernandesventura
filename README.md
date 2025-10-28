@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fernandes
 
-### 💻 Front-End Developer | Based in Porto, Portugal
+### 💻 Front-End Developer
 
 I'm passionate about creating dynamic and user-friendly web interfaces that combine clean design with efficient code.  
 I love turning ideas into interactive experiences using modern technologies and continuously improving my craft through learning and experimentation.
