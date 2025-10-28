@@ -43,7 +43,6 @@ I enjoy transforming ideas into clean, efficient, and functional code while cons
 
 ⭐ Feel free to explore my repositories and connect with me!
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -54,7 +53,7 @@ I enjoy transforming ideas into clean, efficient, and functional code while cons
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -77,7 +76,5 @@ I enjoy transforming ideas into clean, efficient, and functional code while cons
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/FernandesVentura/FernandesVentura/output/snake.svg" alt="Snake animation" />
 
 ###
