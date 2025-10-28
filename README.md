@@ -43,5 +43,7 @@ I enjoy transforming ideas into clean, efficient, and functional code while cons
 
 ⭐ Feel free to explore my repositories and connect with me!
 
-<img src="https://github-readme-stats.vercel.app/api?username=FernandesVentura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandesVentura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandesVentura&layout=compact&langs_count=7&theme=dracula" />
+</div>
